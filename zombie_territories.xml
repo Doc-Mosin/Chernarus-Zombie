@@ -1,19 +1,3 @@
-<!-- 
-This Mod is provided as-is with no warranty or support.
-
-Zone Tags:
-NAME must be one of the following: InfectedArmy, InfectedVillage, InfectedPrisoner, InfectedMedic, InfectedPolice, InfectedReligious, InfectedIndustrial, InfectedFirefighter, InfectedCity, InfectedSolitude
-SMIN is the minimum number of static zombies for the zone
-SMAX is the maximum number of static zombies for the zone
-DMIN is the minimum number of dynamic zombies for the zone
-DMAX is the maximum number of dynamic zombies for the zone
-X is the horizontal coordinate
-Z is the vertical coordinate
-R is the radius of the spawn spread
-
-This mod is using concepts by @Robbhimself#5278 on Discord in the mod: "sanctuary_overrides" (https://steamcommunity.com/sharedfiles/filedetails/?id=1606268272) with permission, edited heavily by @Cleetus#5485 on Discord (Cleetus on Steam - https://steamcommunity.com/id/aussiecleetus/).
-Customizable version of this mod was initially requested by @KOLOSSATOR#9865 on Discord.
--->
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="1124502272">
